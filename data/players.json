@@ -1,0 +1,340 @@
+{
+  "players": [
+    {
+      "id": "skoe",
+      "name": "SKOE",
+      "avatar": "S",
+      "completedDemons": ["mihadifficult"],
+      "progress": {
+        "mihadifficult": 100
+      }
+    },
+    {
+      "id": "dark",
+      "name": "Dark",
+      "avatar": "D",
+      "completedDemons": ["diamondcircles"],
+      "progress": {
+        "diamondcircles": 100
+      }
+    },
+    {
+      "id": "nicepeek",
+      "name": "NICEPEEK",
+      "avatar": "N",
+      "completedDemons": ["voidstorm", "hardtimes", "millioner", "disturb"],
+      "progress": {
+        "voidstorm": 100,
+        "hardtimes": 100,
+        "millioner": 100,
+        "disturb": 100
+      }
+    },
+    {
+      "id": "freedom",
+      "name": "Freedom",
+      "avatar": "F",
+      "completedDemons": ["tsfeeling", "nodrop", "disturb", "unnamed", "limbox", "sleepwalker", "truehardcore", "angela", "electrostatic", "sapphire", "genericprocessing", "whitesynergy", "voidfushion", "acheroncircles", "clutter", "thehellverity", "kaikaikitancover"],
+      "progress": {
+        "tsfeeling": 100,
+        "nodrop": 100,
+        "disturb": 100,
+        "unnamed": 100,
+        "limbox": 100,
+        "sleepwalker": 100,
+        "truehardcore": 100,
+        "angela": 100,
+        "electrostatic": 100,
+        "sapphire": 100,
+        "genericprocessing": 100,
+        "whitesynergy": 100,
+        "voidfushion": 100,
+        "acheroncircles": 100,
+        "clutter": 100,
+        "thehellverity": 100,
+        "kaikaikitancover": 100
+      }
+    },
+    {
+      "id": "syro",
+      "name": "Syro",
+      "avatar": "S",
+      "completedDemons": ["disturb"],
+      "progress": {
+        "disturb": 100
+      }
+    },
+    {
+      "id": "nikedloon",
+      "name": "Nikedloon",
+      "avatar": "N",
+      "completedDemons": ["limbox", "electrostatic", "sapphire", "acheroncircles", "thehellverity", "difficult"],
+      "progress": {
+        "limbox": 100,
+        "electrostatic": 100,
+        "sapphire": 100,
+        "acheroncircles": 100,
+        "thehellverity": 100,
+        "difficult": 100
+      }
+    },
+    {
+      "id": "shampyx",
+      "name": "Shampyx",
+      "avatar": "S",
+      "completedDemons": ["sleepwalker"],
+      "progress": {
+        "sleepwalker": 100
+      }
+    },
+    {
+      "id": "igorchal",
+      "name": "Igorchal",
+      "avatar": "I",
+      "completedDemons": ["consteration", "acheroncircles", "thehellverity", "kaikaikitancover", "difficult", "electroglow"],
+      "progress": {
+        "consteration": 100,
+        "acheroncircles": 100,
+        "thehellverity": 100,
+        "kaikaikitancover": 100,
+        "difficult": 100,
+        "electroglow": 100
+      }
+    },
+    {
+      "id": "dewabi",
+      "name": "Dewabi",
+      "avatar": "D",
+      "completedDemons": ["gravitronlastphase", "gravitronsilent", "hailfire", "horseman2"],
+      "progress": {
+        "gravitronlastphase": 100,
+        "gravitronsilent": 100,
+        "hailfire": 100,
+        "horseman2": 100
+      }
+    },
+    {
+      "id": "thartish",
+      "name": "Thartish",
+      "avatar": "T",
+      "completedDemons": ["electrostatic", "sapphire", "whitesynergy", "clutter", "retrojumper", "akvarium", "kaikaikitancover", "slonikwave", "difficult"],
+      "progress": {
+        "electrostatic": 100,
+        "sapphire": 100,
+        "whitesynergy": 100,
+        "clutter": 100,
+        "retrojumper": 100,
+        "akvarium": 100,
+        "kaikaikitancover": 100,
+        "slonikwave": 100,
+        "difficult": 100
+      }
+    },
+    {
+      "id": "gmdbanonde",
+      "name": "GMDbanonde",
+      "avatar": "G",
+      "completedDemons": ["zerocircles"],
+      "progress": {
+        "zerocircles": 100
+      }
+    },
+    {
+      "id": "technoknight",
+      "name": "TechnoKnight",
+      "avatar": "T",
+      "completedDemons": ["theoryofworld", "epicrocks"],
+      "progress": {
+        "theoryofworld": 100,
+        "epicrocks": 100
+      }
+    },
+    {
+      "id": "syntezz1",
+      "name": "Syntezz1",
+      "avatar": "S",
+      "completedDemons": ["whitesynergy", "voidfushion", "clutter", "retrojumper", "akvarium", "difficult"],
+      "progress": {
+        "whitesynergy": 100,
+        "voidfushion": 100,
+        "clutter": 100,
+        "retrojumper": 100,
+        "akvarium": 100,
+        "difficult": 100
+      }
+    },
+    {
+      "id": "jahp",
+      "name": "Jahp",
+      "avatar": "J",
+      "completedDemons": ["whitesynergy","voidfushion", "acheroncircles", "clutter", "retrojumper", "epicrocks", "akvarium", "kaikaikitancover", "slonikwave", "difficult"],
+      "progress": {
+        "whitesynergy": 100,
+        "voidfushion": 100,
+        "acheroncircles": 100,
+        "clutter": 100,
+        "retrojumper": 100,
+        "epicrocks": 100,
+        "akvarium": 100,
+        "kaikaikitancover": 100,
+        "slonikwave": 100,
+        "difficult": 100
+      }
+    },
+    {
+      "id": "mentallystable",
+      "name": "Mentally Stable",
+      "avatar": "M",
+      "completedDemons": ["voidfushion", "acheroncircles", "clutter", "thehellverity"],
+      "progress": {
+        "voidfushion": 100,
+        "acheroncircles": 100,
+        "clutter": 100,
+        "thehellverity": 100
+      }
+    },
+    {
+      "id": "klrpatyra",
+      "name": "Klrpatyra",
+      "avatar": "K",
+      "completedDemons": ["longadrive"],
+      "progress": {
+        "longadrive": 100
+      }
+    },
+    {
+      "id": "maskexe",
+      "name": "MaskEXE",
+      "avatar": "M",
+      "completedDemons": ["acheroncircles", "thehellverity", "retrojumper", "slonikwave", "difficult"],
+      "progress": {
+        "acheroncircles": 100,
+        "thehellverity": 100,
+        "retrojumper": 100,
+        "slonikwave": 100,
+        "difficult": 100
+      }
+    },
+    {
+      "id": "wergulz16",
+      "name": "Wergulz16",
+      "avatar": "W",
+      "completedDemons": ["acheroncircles", "epicrocks", "slonikwave", "difficult"],
+      "progress": {
+        "acheroncircles": 100,
+        "epicrocks": 100,
+        "slonikwave": 100,
+        "difficult": 100
+      }
+    },
+    {
+      "id": "doffyqq",
+      "name": "d0ffyqq",
+      "avatar": "D",
+      "completedDemons": ["acheroncircles", "thehellverity", "retrojumper", "slonikwave"],
+      "progress": {
+        "acheroncircles": 100,
+        "thehellverity": 100,
+        "retrojumper": 100,
+        "slonikwave": 100
+      }
+    },
+    {
+      "id": "bodya22",
+      "name": "Bodya22",
+      "avatar": "B",
+      "completedDemons": ["acheroncircles"],
+      "progress": {
+        "acheroncircles": 100
+      }
+    },
+    {
+      "id": "morkovkaa",
+      "name": "Morkovkaa",
+      "avatar": "M",
+      "completedDemons": ["thehellverity", "difficult"],
+      "progress": {
+        "thehellverity": 100,
+        "difficult": 100
+      }
+    },
+    {
+      "id": "bl3von",
+      "name": "Bl3von",
+      "avatar": "B",
+      "completedDemons": ["akvarium", "kaikaikitancover"],
+      "progress": {
+        "akvarium": 100,
+        "kaikaikitancover": 100
+      }
+    },
+    {
+      "id": "yyshka",
+      "name": "Yyshka",
+      "avatar": "Y",
+      "completedDemons": ["slonikwave"],
+      "progress": {
+        "slonikwave": 100
+      }
+    },
+    {
+      "id": "krimux",
+      "name": "Krimux",
+      "avatar": "K",
+      "completedDemons": ["difficult", "intercept", "kaikaikitancover"],
+      "progress": {
+        "difficult": 100,
+        "intercept": 100,
+        "kaikaikitancover": 100
+      }
+    },
+    {
+      "id": "egor16i",
+      "name": "Egor16i",
+      "avatar": "E",
+      "completedDemons": ["retrojumper"],
+      "progress": {
+        "retrojumper": 100
+      }
+    },
+    {
+      "id": "vladgmd",
+      "name": "VladGMD",
+      "avatar": "V",
+      "completedDemons": ["slonikwave", "acheroncircles", "kaikaikitancover", "fanera", "noonewillescape", "angela"],
+      "progress": {
+        "slonikwave": 100,
+        "acheroncircles": 100,
+        "kaikaikitancover": 100,
+        "fanera": 100,
+        "noonewillescape": 100,
+        "angela": 74
+      }
+    },
+    {
+      "id": "%",
+      "name": "%",
+      "avatar": "%",
+      "completedDemons": ["slonikwave", "acheroncircles", "difficult", "thehellverity", "retrojumper", "clutter", "kaikaikitancover"],
+      "progress": {
+        "slonikwave": 100,
+        "acheroncircles": 100,
+        "difficult": 100,
+        "thehellverity": 100,
+        "retrojumper": 100,
+        "clutter": 100,
+        "kaikaikitancover": 100
+      }
+    },
+    {
+      "id": "zelanya",
+      "name": "Zelanya",
+      "avatar": "Z",
+      "completedDemons": ["thehellverity", "slonikwave"],
+      "progress": {
+        "thehellverity": 82,
+        "slonikwave": 71
+      }
+    }
+  ]
+}
