@@ -1,0 +1,36 @@
+/* style.css */
+:root {
+    --bg-primary: #1a0f0f;
+    --bg-secondary: #2a1515;
+    --bg-tertiary: #3a1a1a;
+    --text-primary: #ffffff;
+    --text-secondary: #ffa500;
+    --accent-orange: #ff6b00;
+    --accent-purple: #8a2be2;
+    --accent-green: #00ff00;
+    --border-color: #ff4500;
+    --halloween-orange: #ff7518;
+    --halloween-purple: #8b00ff;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+    line-height: 1.6;
+    background-image: 
+        radial-gradient(circle at 20% 80%, rgba(255, 107, 0, 0.1) 0%, transparent 50%),
+        radial-gradient(circle at 80% 20%, rgba(139, 0, 255, 0.1) 0%, transparent 50%),
+        radial-gradient(circle at 40% 40%, rgba(255, 117, 24, 0.05) 0%, transparent 50%);
+    position: relative;
+    overflow-x: hidden;
+}
+
+/* Остальные стили... */
+/* Перенесите ВСЕ стили из index.html сюда */
