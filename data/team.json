@@ -9,17 +9,17 @@
       "roleClass": "role-leader"
     },
     {
-      "id": "sintezz",
-      "name": "Sintezz",
-      "avatar": "",
+      "id": "maskexe",
+      "name": "MaskEXE",
+      "avatar": "M",
       "avatarImage": "images/syntezz.png", 
       "role": "Создатель ГДПС",
       "roleClass": "role-admin"
     },
     {
-      "id": "maskexe",
-      "name": "MaskEXE",
-      "avatar": "M",
+      "id": "rybaej",
+      "name": "Рыьа ёж",
+      "avatar": "Р",
       "avatarImage": "images/maskexe.png", 
       "role": "Администратор ГДПС",
       "roleClass": "role-admin"
